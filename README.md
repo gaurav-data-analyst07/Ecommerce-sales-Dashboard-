@@ -4,7 +4,7 @@
 
 This project is an interactive **Ecommerce Sales Dashboard** developed in **Microsoft Excel** to analyze business performance using sales data. The dashboard enables users to monitor key performance indicators (KPIs), identify sales trends, and make data-driven decisions through interactive visualizations.
 
----
+
 
 ## 🚀 Key Features
 
@@ -19,7 +19,7 @@ This project is an interactive **Ecommerce Sales Dashboard** developed in **Micr
 - 💰 Profit Analysis
 - 📉 Clean & Professional Dashboard Design
 
----
+
 
 ## 🛠️ Tools & Skills Used
 
@@ -35,7 +35,7 @@ This project is an interactive **Ecommerce Sales Dashboard** developed in **Micr
 - Custom Number Formatting
 - Business Analysis
 
----
+
 
 ## 📌 Key Performance Indicators (KPIs)
 
@@ -45,13 +45,13 @@ This project is an interactive **Ecommerce Sales Dashboard** developed in **Micr
 - Total Orders
 - Profit Margin (%)
 
----
+
 
 ## 📷 Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
----
+
 
 ## 📂 Project Files
 
@@ -59,7 +59,7 @@ This project is an interactive **Ecommerce Sales Dashboard** developed in **Micr
 - dashboard.png
 - README.md
 
----
+
 
 ## 📈 Business Insights
 
@@ -69,7 +69,7 @@ This project is an interactive **Ecommerce Sales Dashboard** developed in **Micr
 - Tracked profit margin using KPI metrics.
 - Built an interactive dashboard for quick business reporting.
 
----
+
 
 ## 🎯 Learning Outcomes
 
@@ -83,7 +83,7 @@ Through this project, I strengthened my skills in:
 - Data Visualization
 - Analytical Thinking
 
----
+
 
 ## 👨‍💻 Author
 
@@ -100,5 +100,5 @@ Aspiring Data Analyst
 - Data Analysis
 - Data Visualization
 
----
+
 ⭐ If you found this project useful, feel free to star this repository.
