@@ -1,4 +1,4 @@
-# 📊 Ecommerce Sales Dashboard | Microsoft Excel
+# 📊 Ecommerce Sales Analysis Dashboard | Microsoft Excel
 
 ## 📌 Project Overview
 
